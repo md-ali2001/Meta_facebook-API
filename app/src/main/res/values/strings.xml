@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">chatgptAPI-integration</string>
+
+    <string name="facebook_app_id">1367162827410536</string>
+    <string name="fb_login_protocol_scheme">fb1367162827410536</string>
+    <string name="facebook_client_token">c7cdd16b72f975586921bddbc19fbc76</string>
+</resources>
